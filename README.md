@@ -26,10 +26,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonifaciojz&show_icons=true&locale=en&layout=compact" alt="bonifaciojz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonifaciojz&show_icons=true&locale=en" alt="bonifaciojz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonifaciojz&theme=highcontrast" alt="bonifaciojz" /></p>
-
-
