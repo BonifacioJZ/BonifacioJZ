@@ -1,3 +1,4 @@
+<h1 align="center">Hola 👋, Yo soy Bonifacio Juarez Ceja</h1>
 <h3 align="center">un apasionado Ingeniero en TICs con un enfoque especializado en el desarrollo web, particularmente en el back-end. Con una sólida formación técnica y experiencia práctica, me dedico a crear soluciones robustas y eficientes para diversas aplicaciones web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonifaciojz&label=Profile%20views&color=0e75b6&style=flat" alt="bonifaciojz" /> </p>
@@ -24,6 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonifaciojz&show_icons=true&locale=en" alt="bonifaciojz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonifaciojz&" alt="bonifaciojz" /></p>
+
+
 
 
 
